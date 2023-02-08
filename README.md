@@ -1,2 +1,2 @@
 # henok_mengistu-assignment-2
-# food delivery app
+# food ordering app
